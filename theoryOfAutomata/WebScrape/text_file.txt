@@ -1,5 +1,1 @@
-Name: Dr. Byron Gao
-Education: BS, PhD, Simon Fraser University
-Research Interests: Data mining, databases, information retrieval
-Email: Byron Gao email bgao@txstate.edu
-Webpage: http://cs.txstate.edu/~jg66
+
