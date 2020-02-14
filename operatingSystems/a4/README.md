@@ -7,11 +7,13 @@ A program that takes a reference string and the number of frames as inputs to si
 1.) First unzip the folder and navigate into the Assignment - 4 folder.
 2.) Once you are inside the Assignment - 4 folder you can begin compiling the assignment files.
 3.) Now you will need to open a terminal in this directory. You can do this by following these instructions:
-* Windows 10 hold shift + right click you will see "open powershell window here" click that.
-*	Mac right click the Assignment 2 folder and navigate to Services. Here you should see "New Terminal at Folder"
-*	Linux Distros simply right click the Assignment -2 folder and click "Open in Terminal"
+• Windows 10 hold shift + right click you will see "open powershell window here" click that.
+•	Mac right click the Assignment 2 folder and navigate to Services. Here you should see "New Terminal at Folder"
+•	Linux Distros simply right click the Assignment -2 folder and click "Open in Terminal"
 4.)Once the terminal is open you can start compiling the files. To do so following the instructions below.
-To compile the files you can simply copy and paste the commands below:
+```
+### To compile the files you can simply copy and paste the commands below:
+```
 •	Assignment lab4.c
 gcc lab4.c
 To run the executable file that pre.c created input ./a.out in the terminal:
