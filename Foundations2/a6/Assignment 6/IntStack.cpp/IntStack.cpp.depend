@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512515949 source:u:\2308\assignment 6\intstack.cpp\intstack.cpp
+	<iostream>
+	<cassert>
+	"IntStack.h"
+
+1512512615 u:\2308\assignment 6\intstack.cpp\intstack.h
+
