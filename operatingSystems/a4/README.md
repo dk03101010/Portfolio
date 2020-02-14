@@ -12,11 +12,11 @@ A program that takes a reference string and the number of frames as inputs to si
 •	Linux Distros simply right click the Assignment -2 folder and click "Open in Terminal"
 4.)Once the terminal is open you can start compiling the files. To do so following the instructions below.
 ```
-### To compile the files you can simply copy and paste the commands below:
+#### To compile the files you can simply copy and paste the commands below:
 ```
-•	Assignment lab4.c
-gcc lab4.c
+Assignment lab4.c
+    gcc lab4.c
 To run the executable file that pre.c created input ./a.out in the terminal:
-./a.out
+    ./a.out
 You will then be prompt to enter a number of frames.
 ```
