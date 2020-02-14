@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1510879372 source:u:\2308\assignment5\stringlist\new.cpp
+	<iostream>
+	<iomanip>
+	"StringList.h"
+	"StringList.cpp"
+
+1510860905 u:\2308\assignment5\stringlist\stringlist.h
+	<string>
+
+1510879435 u:\2308\assignment5\stringlist\stringlist.cpp
+	<iostream>
+	<iomanip>
+	"StringList.h"
+
