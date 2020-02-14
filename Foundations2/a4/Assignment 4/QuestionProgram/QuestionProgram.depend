@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1509985169 source:c:\users\dbk22\desktop\questionprogram\main.cpp
+	<iostream>
+	"Question.h"
+	"Question.cpp"
+
+1509984718 c:\users\dbk22\desktop\questionprogram\question.h
+
+1509985233 c:\users\dbk22\desktop\questionprogram\question.cpp
+	<iostream>
+	<iomanip>
+	"Question.h"
+
