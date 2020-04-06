@@ -1,4 +1,6 @@
-#Portfolio
-Various projects throughout my computer science undergraduate degree.
+## Portfolio
+```
+Various projects I made throughout my degree.
 
-Languages used: C, C++, Java, Python, Assembly Language.
+Languages used: C, C++, Java, Python, Assembly Language, Shell scripts.
+```
