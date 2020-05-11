@@ -1,0 +1,1 @@
+/usr/bin/c++.exe -g  -Wl,--enable-auto-import CMakeFiles/Homework2.dir/PhysVec.cpp.o CMakeFiles/Homework2.dir/main.cpp.o  -o Homework2.exe -Wl,--out-implib,libHomework2.dll.a -Wl,--major-image-version,0,--minor-image-version,0 
